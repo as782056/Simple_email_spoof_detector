@@ -4,5 +4,6 @@ Allow less secure apps from your google account in security settings.(required a
 Enter email id and password in the file and then have fun . 
 No data is being stored in the server side . 
 Active internet connection is required to establish connection to your mailbox. 
+Required library are imap,email,smtplib use pip3 to install if you do not have these package installed. 
 
 
